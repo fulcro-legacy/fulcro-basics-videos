@@ -1,4 +1,9 @@
-# The Project
+# Files From Fulcro 2.0 YouTube Video Series
+
+Most of the action is in the cards. See the [videos](https://www.youtube.com/playlist?list=PLVi9lDx-4C_Rwb8LUwW4AdjAu-39PHgEE)
+for more information.
+
+The IntelliJ Cheat Sheet and my Settings (Import on OSX ONLY) are in the top-level folder.
 
 The main project source is in `src/main`.
 
